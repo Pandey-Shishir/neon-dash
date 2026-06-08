@@ -78,9 +78,6 @@ Calibration profiles are stored in the browser under keys named `poseUser_<name>
 - A short on screen tutorial run
 - Optional rhythm or workout modes that reuse the same body controls
 
-## License
-
-MIT (or your preference). Add a `LICENSE` file.
 
 ## Acknowledgements
 
